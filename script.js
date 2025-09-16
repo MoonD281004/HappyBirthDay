@@ -322,36 +322,36 @@ function startPhotoShow() {
     // Foto lokal dari folder images
     const photos = [
         {
-            text: 'Our First Date 💕',
-            image: './images/photo1.jpg'
+            text: 'Pengajian Dipo Mulyo',
+            image: './images/photo1_Pengajian.jpg'
         },
         {
-            text: 'Birthday Moment 🎂',
-            image: './images/photo2.jpg'
+            text: 'Pengajian Di Rumah Pancan',
+            image: './images/photo2_SamaKakakMu.jpg'
         },
         {
             text: 'Adventure Time 🌟',
             image: './images/photo3.jpg'
         },
         {
-            text: 'Cozy Together ❤️',
-            image: './images/photo4.jpg'
+            text: 'Eating Together ❤️',
+            image: './images/photo3_MakanDM.jpg'
         },
         {
-            text: 'Sweet Memories 🥰',
-            image: './images/photo5.jpg'
+            text: 'Thrifting Memories 🥰',
+            image: './images/photo4_BeliBaju.jpg'
         },
         {
-            text: 'Laugh Together 😂',
-            image: './images/photo6.jpg'
+            text: 'Beautiful Beach 💖',
+            image: './images/photo5_DiPantai.jpg'
         },
         {
             text: 'Perfect Day ☀️',
-            image: './images/photo7.jpg'
+            image: './images/photo6_GuehDanLuchDipantai.jpg'
         },
         {
-            text: 'Love Forever 💖',
-            image: './images/photo8.jpg'
+            text: 'Es Teh Moment',
+            image: './images/photo7_GuehDanLuchDipantai2.jpg'
         }
     ];
     
@@ -616,14 +616,14 @@ function loadSpotifyPlaylist(playlistNumber) {
         },
         2: {
             // Ganti dengan playlist kedua kamu
-            embedUrl: 'https://open.spotify.com/embed/playlist/3gPSenyxZMdB3A54HeEruz?si=6b4dec830d4f4a48',
-            name: 'Love Songs Collection',
-            description: 'Koleksi lagu cinta terbaik untuk kita ❤️'
+            embedUrl: 'https://open.spotify.com/playlist/4xwSB2zMM8rbmEYlj4blrQ?si=fi-lheDIQ2OwqgGawZzpnA&pi=jAEFdcmnQTK6v',
+            name: 'Rock Songs Collection',
+            description: 'Koleksi lagu rock terbaik untuk kita ❤️'
         },
         3: {
             // Ganti dengan playlist ketiga kamu
             embedUrl: 'https://open.spotify.com/embed/playlist/4dlQ4JHE6abxv38aae2HL1?si=95730613199e4dad',
-            name: 'Happy Memories',
+            name: 'Your Memories',
             description: 'Lagu-lagu yang mengingatkan kenangan indah 🌟'
         }
     };
