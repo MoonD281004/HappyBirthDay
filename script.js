@@ -330,8 +330,8 @@ function startPhotoShow() {
             image: './images/photo2_SamaKakakMu.jpg'
         },
         {
-            text: 'Adventure Time 🌟',
-            image: './images/photo3.jpg'
+            text: 'Play Time 🌟',
+            image: './images/photo9_mainlagi.jpg'
         },
         {
             text: 'Eating Together ❤️',
